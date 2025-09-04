@@ -6,7 +6,7 @@ DNF 活动自动签到
 
 <img width="1258" height="261" alt="image" src="https://github.com/user-attachments/assets/f2b105d0-e09a-4fd2-b070-ddf54a5a2629" />
 
-活动页面 ：https://dnf.qq.com/cp/a20250807index/?ADTAG=cop.innercop.wegame.pic4&e_code=532773&hcfrom=WeGame.helper
+[活动页面 ](https://dnf.qq.com/cp/a20250807index/?ADTAG=cop.innercop.wegame.pic4&e_code=532773&hcfrom=WeGame.helper)
 
 
 # DNF-autochecked
